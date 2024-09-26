@@ -46,7 +46,8 @@ For more details, check out our [Contributing Guidelines](https://github.com/sec
 
 ## 👥 **Contributors**
 
-- We extend our gratitude to the amazing contributors who make **secuRefeds** possible. Special thanks to all our **members**
+- We extend our gratitude to the amazing contributors who make **secuRefeds** possible. Special thanks to all our [![GitHub Members](https://img.shields.io/badge/View%20Team%20Members-GitHub-blue)](https://github.com/orgs/secuRefeds/people)
+
 
   
 And many more! Your contributions are invaluable.
