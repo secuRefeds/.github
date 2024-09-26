@@ -40,13 +40,13 @@ Your contribution matters! Here’s how you can get involved:
 
 For more details, check out our [Contributing Guidelines](https://github.com/secuRefeds/.github/CONTRIBUTING.md).
 
--
+
 - **Collaborators**: We welcome partnerships and contributions from other organizations and individuals.
 
 
 ## 👥 **Contributors**
 
-We extend our gratitude to the amazing contributors who make **secuRefeds** possible. Special thanks to all our **members**
+- We extend our gratitude to the amazing contributors who make **secuRefeds** possible. Special thanks to all our **members**
 
   
 And many more! Your contributions are invaluable.
